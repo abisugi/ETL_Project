@@ -1,5 +1,6 @@
 n = int(input().strip())
 
+print("value of n is "n)
 if not n % 2 == 0:
     print("weird")
 elif n%2 ==0 :
